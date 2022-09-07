@@ -17,7 +17,7 @@ body {
 .flex-box {
     width: 400px;
     height: 350px;
-    background: linear-gradient(purple, red);
+    background: linear-gradient(purple, red,yellow);
     color: white;
     font-size: 25px;
     text-align: center;
