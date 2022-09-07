@@ -1,10 +1,11 @@
-body{
+body {
     margin: 0;
     padding: 0;
     font-family: cursive;
     box-sizing: border-box;
 }
-.flex-container{
+
+.flex-container {
     width: 100%;
     height: auto;
     display: flex;
@@ -12,6 +13,7 @@ body{
     flex-wrap: wrap;
     justify-content: space-around;
 }
+
 .flex-box {
     width: 400px;
     height: 350px;
